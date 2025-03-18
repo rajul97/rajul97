@@ -13,12 +13,12 @@
 
 
 ## 🛡️ About Me  <p align="right">
-  <img src="https://media.giphy.com/media/dHmZGTltA69fdyvPrK/giphy.gif?cid=ecf05e47xt6dfp0ebumciy55v7aa16w0fjysd7ksb0b0czl1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" />
-</p>
+ 
 I'm an **IAM Consultant 🛡️** and **Cyber Ninja 🥷**, specializing in **Identity & Access Management (IAM), penetration testing, and network security**. I design secure authentication systems, enforce **Zero Trust principles**, and strengthen enterprise security frameworks.
 
 A **React Native Developer** by day, a **Cybersecurity Specialist** by night, blending security with innovation to safeguard digital landscapes. 🔥
-
+ <img src="https://media.giphy.com/media/dHmZGTltA69fdyvPrK/giphy.gif?cid=ecf05e47xt6dfp0ebumciy55v7aa16w0fjysd7ksb0b0czl1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" />
+</p>
 ---
 
 ## 📅 Live Time & Date
