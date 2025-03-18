@@ -1,5 +1,5 @@
-<div class="header">
-    <div class="ascii-art" align="center">
+<div class="header" align="center">
+    <div class="ascii-art">
         <pre>
 ███╗   ██╗ █████╗ ███╗   ███╗ █████╗  ███████╗ ████████╗███████╗  
 ████╗  ██║██╔══██╗████╗ ████║██╔══██╗ ██╔════╝ ╚══██╔══╝██╔════╝  
@@ -10,9 +10,9 @@
         </pre>
     </div>
 </div>
-    <h1 align="center">Rajul Gupta</h1>
-    <h3 align="center">🥷 IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
 
+<h1 align="center">Rajul Gupta</h1>
+<h3 align="center">🥷 IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
 
 <p align="center">
   "Hack the Planet, Defend the Future!" 🔥🕷️<br>
@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/pM6FzzHX4T9uPQqi06/giphy.gif" width="200" alt="Cyber Ninja Animation">
 </p>
+
 <blockquote align="center">
   <h3>ॐ क्लीं क्लीं वित्तग्रहणि धनं मे देहि देहि स्वाहा।</h3>
 </blockquote>
@@ -116,10 +117,12 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
 
 </div>
 
+
 ---
 
 ## 🌐 Connect with Me
- <div align="center">
+
+<div align="center">
   <!-- Professional Links -->
   <a href="https://github.com/rajul97" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
@@ -163,17 +166,24 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
   </a>
 </div>
 
-
 ---
 
 ## ☕ Support My Cybersecurity Research
 
-<div align="center"  width="100"  >
+<div align="center">
   <a href="https://buymeacoffee.com/rajulgupta" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </div>
 
+---
+
+## 📊 My Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rajul97&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=rajul97&theme=dark&hide_border=false)   
+                                      
+            
+![](https://github-profile-trophy.vercel.app/?username=rajul97&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ---
 
 ## 🌸 Sanskrit Wisdom
