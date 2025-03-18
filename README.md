@@ -168,7 +168,7 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
 
 ## ☕ Support My Cybersecurity Research
 
-<div align="center">
+<div align="center"  width="100"  >
   <a href="https://buymeacoffee.com/rajulgupta" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
