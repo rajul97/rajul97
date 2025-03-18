@@ -15,9 +15,9 @@
   <h3>🥷 Rajul Gupta | IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
   <p><b>Embrace the Venom.</b> 🕸️🕷️ Venomous Innovation, Unmatched Security! 👹</p>
   
-  <img src="https://media.giphy.com/media/pM6FzzHX4T9uPQqi06/giphy.gif" width="250" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+  <img src="https://media.giphy.com/media/pM6FzzHX4T9uPQqi06/giphy.gif" width="200" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
   
-  <h2>🕉️ मंत्र</h2>
+
   <blockquote>
     <h3>ॐ क्लीं क्लीं वित्तग्रहणि धनं मे देहि देहि स्वाहा।</h3>
   </blockquote>
