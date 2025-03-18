@@ -180,7 +180,7 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
 
 ## 📊 My Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rajul97&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=rajul97&theme=dark&hide_border=false)   
+![](https://github-readme-stats.vercel.app/api?username=rajul97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    ![](https://nirzak-streak-stats.vercel.app/?user=rajul97&theme=dark&hide_border=false)   
                                       
             
 ![](https://github-profile-trophy.vercel.app/?username=rajul97&theme=radical&no-frame=true&no-bg=true&margin-w=4)
