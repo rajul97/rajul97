@@ -11,7 +11,7 @@
     </pre>
   </h1>
   
-  <h2>"Hack the planet, defend the future!" 🔥🕷️</h2>
+  <h2>"Hack the Planet, Defend the Future!" 🔥🕷️</h2>
   <h3>🥷 Rajul Gupta | IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
   <p><b>Embrace the Venom.</b> 🕸️🕷️ Venomous Innovation, Unmatched Security! 👹</p>
   
@@ -27,20 +27,20 @@
 
 ## 🛡️ About Me
 
-🔹 **IAM Consultant & Cybersecurity Expert** with expertise in **Identity & Access Management (IAM), penetration testing, and network security**.  
+🔹 **IAM Consultant & Cybersecurity Expert** specializing in **Identity & Access Management (IAM), penetration testing, and network security**.  
 🔹 Designing secure authentication systems and enforcing **Zero Trust** principles.  
-🔹 **React Native Developer** with a passion for blending security & front-end innovation.  
+🔹 **React Native Developer** blending security & front-end innovation.  
 🔹 Always on a mission to **Hack, Secure, and Build!**
 
 ---
 
 ## 🕵️‍♂️ Skills & Expertise
 
-- **IAM & Cybersecurity**: Identity & Access Management, RBAC, Zero Trust Security  
-- **Defense Strategies**: SIEM, Threat Intelligence, Incident Response  
-- **Offensive Tactics**: Ethical Hacking, Network Security, Penetration Testing  
-- **Secure Development**: React Native, OAuth 2.0, JWT, MFA, Data Encryption  
-- **Compliance & Governance**: Google Cloud Security, IAM Audits, GDPR, ISO 27001  
+- 🔒 **IAM & Cybersecurity**: Identity & Access Management, RBAC, Zero Trust Security  
+- 🛡 **Defense Strategies**: SIEM, Threat Intelligence, Incident Response  
+- ⚔ **Offensive Tactics**: Ethical Hacking, Network Security, Penetration Testing  
+- 🏗 **Secure Development**: React Native, OAuth 2.0, JWT, MFA, Data Encryption  
+- 📜 **Compliance & Governance**: Google Cloud Security, IAM Audits, GDPR, ISO 27001  
 
 ---
 
@@ -66,11 +66,11 @@
 
 ## 🌍 Public Cybersecurity Resources
 
-- 🔥 [Threat Intelligence Dashboard](https://threatmap.checkpoint.com/)  
+- 🌎 [Threat Intelligence Dashboard](https://threatmap.checkpoint.com/)  
 - ⚔️ [Real-Time Cyber Attacks](https://cybermap.kaspersky.com/)  
 - 🛠 [Shodan - The Search Engine for Hackers](https://www.shodan.io/)  
-- 🌐 [Have I Been Pwned? (Check Breaches)](https://haveibeenpwned.com/)  
-- 🔎 [MITRE ATT&CK Framework](https://attack.mitre.org/)  
+- 🔍 [Have I Been Pwned? (Check Breaches)](https://haveibeenpwned.com/)  
+- 📊 [MITRE ATT&CK Framework](https://attack.mitre.org/)  
 
 ---
 
@@ -101,9 +101,9 @@
 
 ## ⚔️ Cybersecurity Goals
 
-- **Offensive Security**: Master red teaming, penetration testing, and exploit development.  
-- **IAM Security**: Enhance role-based access controls, identity governance, and Zero Trust security.  
-- **Threat Hunting**: Detect and mitigate zero-day vulnerabilities.  
+- 🚨 **Offensive Security**: Master red teaming, penetration testing, and exploit development.  
+- 🔐 **IAM Security**: Enhance role-based access controls, identity governance, and Zero Trust security.  
+- 🕵️‍♂️ **Threat Hunting**: Detect and mitigate zero-day vulnerabilities.  
 
 ---
 
@@ -113,5 +113,5 @@
 
 ---
 
-### **Namaste 🙏 Let's Hack, Secure, and Build!** 🔥🥷
+### **🙏 Namaste | Let's Hack, Secure, and Build! 🔥🥷**
 
