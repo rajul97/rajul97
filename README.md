@@ -1,4 +1,4 @@
-```ascii
+```
 ███╗   ██╗ █████╗ ███╗   ███╗ █████╗  ███████╗ ████████╗███████╗
 ████╗  ██║██╔══██╗████╗ ████║██╔══██╗ ██╔════╝ ╚══██╔══╝██╔════╝
 ██╔██╗ ██║███████║██╔████╔██║███████║ ███████╗    ██║   █████╗  
@@ -13,6 +13,13 @@
 
 ---
 
+## 🎥 Lottie Animation
+<p align="center">
+  <iframe src="https://lottie.host/embed/d6c6d9eb-ab4a-4235-be1d-8269738f1c8b/K5yqaRbMdP.lottie" width="400" height="400" frameborder="0" allowfullscreen></iframe>
+</p>
+
+---
+
 ## 🛡️ About Me
 I'm an **IAM Consultant 🛡️** and **Cyber Ninja 🥷**, specializing in **Identity & Access Management (IAM), penetration testing, and network security**. I design secure authentication systems, enforce **Zero Trust principles**, and strengthen enterprise security frameworks.
 
@@ -21,12 +28,12 @@ A **React Native Developer** by day, a **Cybersecurity Specialist** by night, bl
 ---
 
 ## 🌐 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yc6wGF2a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajul____)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajul-gupta-5b87a0188/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rajulseth-b7z)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://www.twitch.tv/rajul11)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/9179870896)
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yc6wGF2a)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajul____)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajul-gupta-5b87a0188/)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rajulseth-b7z)
+- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://www.twitch.tv/rajul11)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/9179870896)
 
 ---
 
@@ -82,6 +89,9 @@ A **React Native Developer** by day, a **Cybersecurity Specialist** by night, bl
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+
+
 
 ## 🌍 Live Cybersecurity Feeds
 - [🔗 Threat Intelligence Dashboard](https://threatmap.checkpoint.com/)
