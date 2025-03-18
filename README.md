@@ -11,19 +11,20 @@
 
 ## ✨ "Hack the planet, defend the future!" 🔥
 
----
 
-## 🎥 Lottie Animation
-<p align="center">
-  <iframe src="https://lottie.host/embed/d6c6d9eb-ab4a-4235-be1d-8269738f1c8b/K5yqaRbMdP.lottie" width="400" height="400" frameborder="0" allowfullscreen></iframe>
+## 🛡️ About Me  <p align="right">
+  <img src="https://media.giphy.com/media/dHmZGTltA69fdyvPrK/giphy.gif?cid=ecf05e47xt6dfp0ebumciy55v7aa16w0fjysd7ksb0b0czl1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150" />
 </p>
-
----
-
-## 🛡️ About Me
 I'm an **IAM Consultant 🛡️** and **Cyber Ninja 🥷**, specializing in **Identity & Access Management (IAM), penetration testing, and network security**. I design secure authentication systems, enforce **Zero Trust principles**, and strengthen enterprise security frameworks.
 
 A **React Native Developer** by day, a **Cybersecurity Specialist** by night, blending security with innovation to safeguard digital landscapes. 🔥
+
+---
+
+## 📅 Live Time & Date
+<p align="center">
+  <img src="https://www.worldtimeserver.com/clocks/wtsclock001s.gif" alt="Live Time & Date" />
+</p>
 
 ---
 
@@ -85,13 +86,10 @@ A **React Native Developer** by day, a **Cybersecurity Specialist** by night, bl
 
 ---
 
-## 🥷 Ninja Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🕉 Mantra for Prosperity
+**ॐ क्लीं क्लीं वित्तग्रहणि धनं मे देहि देहि स्वाहा।**
 
 ---
-
-
-
 
 ## 🌍 Live Cybersecurity Feeds
 - [🔗 Threat Intelligence Dashboard](https://threatmap.checkpoint.com/)
@@ -105,3 +103,4 @@ A **React Native Developer** by day, a **Cybersecurity Specialist** by night, bl
 ---
 
 ### **Namaste 🙏 Let's Hack, Secure, and Build!** 🔥🥷
+
