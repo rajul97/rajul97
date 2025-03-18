@@ -1,5 +1,5 @@
 <div class="header">
-    <div class="ascii-art">
+    <div class="ascii-art" align="center">
         <pre>
 ███╗   ██╗ █████╗ ███╗   ███╗ █████╗  ███████╗ ████████╗███████╗  
 ████╗  ██║██╔══██╗████╗ ████║██╔══██╗ ██╔════╝ ╚══██╔══╝██╔════╝  
@@ -9,10 +9,10 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚══════╝    ╚═╝   ╚══════╝  
         </pre>
     </div>
-
+</div>
     <h1 align="center">Rajul Gupta</h1>
     <h3 align="center">🥷 IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
-</div>
+
 
 <p align="center">
   "Hack the Planet, Defend the Future!" 🔥🕷️<br>
