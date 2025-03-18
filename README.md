@@ -161,9 +161,7 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
   <a href="https://wa.me/9179870896" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://www.buymeacoffee.com/rajul" target="_blank">
-    <img src="https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
+  
 </div>
 
 ---
