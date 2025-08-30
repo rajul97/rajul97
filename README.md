@@ -183,19 +183,3 @@ I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access M
 ![](https://github-profile-trophy.vercel.app/?username=rajul97&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 ---
 
-## 🌸 Sanskrit Wisdom
-
-> **"असतो मा सद्गमय"**  
-> *Lead me from the unreal to the real.*
-
-> **"सत्यमेव जयते"**  
-> *Truth alone triumphs.*
-
-> **"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"**  
-> *You have a right to perform your duty, but not to the fruits thereof.*
-
----
-
-<p align="center">
-  <em>🙏 Namaste | Let's Hack, Secure, and Build! 🔥🥷</em>
-</p>
