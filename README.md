@@ -18,9 +18,7 @@
   "Hack the Planet, Defend the Future!" 🔥🕷️<br>
   <strong>Embrace the Venom.</strong> 🕸️🕷️ Venomous Innovation, Unmatched Security! 👹
 </p>
-<blockquote align="center">
-  <h3>ॐ क्लीं क्लीं वित्तग्रहणि धनं मे देहि देहि स्वाहा।</h3>
-</blockquote>
+
 <p align="center">
   <img src="https://media.giphy.com/media/pM6FzzHX4T9uPQqi06/giphy.gif" width="200" alt="Cyber Ninja Animation">
 </p>
