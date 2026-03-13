@@ -1,185 +1,173 @@
-<div class="header" align="center">
-    <div class="ascii-art">
-        <pre>
-███╗   ██╗ █████╗ ███╗   ███╗ █████╗  ███████╗ ████████╗███████╗  
-████╗  ██║██╔══██╗████╗ ████║██╔══██╗ ██╔════╝ ╚══██╔══╝██╔════╝  
-██╔██╗ ██║███████║██╔████╔██║███████║ ███████╗    ██║   █████╗    
-██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║ ╚════██║    ██║   ██╔══╝    
-██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║ ███████║    ██║   ███████╗  
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚══════╝    ╚═╝   ╚══════╝  
-        </pre>
-    </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a6b,100:0d1b2a&height=200&section=header&text=Rajul%20Gupta&fontSize=60&fontColor=4fc3f7&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Engineer%20%7C%20Blue%20%26%20Red%20Team&descAlignY=58&descSize=18&descColor=90caf9&animation=fadeIn" width="100%"/>
+
 </div>
-
-<h1 align="center">Rajul Gupta</h1>
-<h3 align="center">🥷 IAM Consultant | Cyber Ninja | Front-End Developer 🚀</h3>
-
-<p align="center">
-  "Hack the Planet, Defend the Future!" 🔥🕷️<br>
-  <strong>Embrace the Venom.</strong> 🕸️🕷️ Venomous Innovation, Unmatched Security! 👹
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/pM6FzzHX4T9uPQqi06/giphy.gif" width="200" alt="Cyber Ninja Animation">
-</p>
-
-
-
----
-
-## 🛡️ About Me
-
-I'm an IAM Consultant & Cybersecurity Expert specializing in Identity & Access Management, penetration testing, and network security. I design secure authentication systems, enforce Zero Trust principles, and build innovative front-end solutions using React Native. Always on a mission to **Hack, Secure, and Build!**
-
----
-
-## 🕵️‍♂️ Skills & Expertise
-
-- **IAM & Cybersecurity:** Identity & Access Management, RBAC, Zero Trust Security  
-- **Defense Strategies:** SIEM, Threat Intelligence, Incident Response  
-- **Offensive Tactics:** Ethical Hacking, Network Security, Penetration Testing  
-- **Secure Development:** React Native, OAuth 2.0, JWT, MFA, Data Encryption  
-- **Compliance & Governance:** Google Cloud Security, IAM Audits, GDPR, ISO 27001  
-
----
-
-## 🚀 Cyber Projects
-
-- **IAM Security Implementation:** Designed secure IAM frameworks enforcing MFA & RBAC policies.
-- **Network Security Tool:** Scans networks for vulnerabilities and provides real-time insights.  
-  [View on GitHub](https://github.com/rajul97/network-security-tool.git)
-- **Automated Vulnerability Scanner:** Utilizes Nmap & Wireshark to detect security flaws.
-- **Network Security Assessment Tool:** Identifies misconfigurations and enhances network security.
-
----
-
-## 🎖️ Certifications
-
-- Google Cloud Cybersecurity (Google)  
-- Certified Ethical Hacker (Cisco)  
-- Cybersecurity Fundamentals (IBM)  
-- IAM Security & Compliance (ISO 27001, GDPR)  
-- EF SET English Certificate (C1 Advanced)  
-
----
-
-## 🌍 Public Cybersecurity Resources
-
-- [Threat Intelligence Dashboard](https://threatmap.checkpoint.com/)  
-- [Real-Time Cyber Attacks](https://cybermap.kaspersky.com/)  
-- [Shodan - The Search Engine for Hackers](https://www.shodan.io/)  
-- [Have I Been Pwned? (Check Breaches)](https://haveibeenpwned.com/)  
-- [MITRE ATT&CK Framework](https://attack.mitre.org/)  
-
----
-
-## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="40" alt="Babel">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" alt="Chrome">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="40" alt="Kali Linux">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" alt="PyTorch">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="40" alt="Pytest">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy">
-<img src="https://skillicons.dev/icons?i=gcp" width="40" alt="Google Cloud">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Google">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
-<img src="https://skillicons.dev/icons?i=androidstudio" width="40" alt="Android Studio">
-<img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub">
-<img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux">
-<img src="https://skillicons.dev/icons?i=windows" width="40" alt="Windows">
-<img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS">
-<img src="https://cdn.simpleicons.org/wordpress/21759B" width="40" alt="WordPress">
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" alt="Canva">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" alt="Anaconda">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman">
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Threat+Hunter.+Log+Analyst.+Rule+Builder.;658+Alerts+Generated.+0+Missed.;Wazuh+%2B+Splunk+%2B+Kali+Linux;MITRE+ATT%26CK+Mapped.+Always.;Open+to+SOC+%7C+Security+Analyst+Roles+in+UK)](https://git.io/typing-svg)
 
 </div>
 
-
 ---
-
-## 🌐 Connect with Me
 
 <div align="center">
-  <!-- Professional Links -->
-  <a href="https://github.com/rajul97" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/rajul-gupta-5b87a0188/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/29157714/rajul-gupta" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="mailto:rajulgupta97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
-  </a>
 
-  <!-- Social Links -->
-  <a href="https://twitter.com/rajul_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/_rajul____" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.twitch.tv/rajul11" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="https://youtube.com/@rajulseth-b7z" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://discord.gg/Yc6wGF2a" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.snapchat.com/add/rajul977" target="_blank">
-    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=snapchat&logoColor=black" alt="Snapchat">
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=rajul97&color=1565c0&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajulgupta--cybersecurity-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajulgupta-cybersecurity)
+[![GitHub](https://img.shields.io/badge/GitHub-rajul97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajul97)
+[![Email](https://img.shields.io/badge/Email-rajulgupta97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajulgupta97@gmail.com)
 
-  <!-- Messaging & Support -->
-  <a href="https://wa.me/9179870896" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  
 </div>
 
 ---
 
-## ☕ Support My Cybersecurity Research
+## `whoami`
+
+```bash
+┌──(rajul㉿soc-lab)-[~]
+└─$ cat about.txt
+```
+
+```
+Name     : Rajul Gupta
+Location : London, UK
+Role     : MSc Cybersecurity & Digital Forensics @ UWTSD London
+Focus    : SOC Analysis | Threat Detection | IAM | Ethical Hacking
+Status   : Open to Work — SOC Analyst | Security Analyst | Cloud Security
+```
+
+I spent years building apps as a frontend developer. Then I started breaking them.
+
+Now I work on both sides — running attacks, writing detection rules, building dashboards, and understanding exactly how threats get in and how to catch them. My Home SOC Lab is the best thing I've built. Real attacks. Real detections. Real logs.
+
+---
+
+## 🏴 Home SOC Lab — Flagship Project
+
+> **Full attack and detection environment built from scratch on personal hardware.**
+
+```
+Stack:  Wazuh (SIEM) + Splunk (Log Analysis) + Kali Linux (Attacker)
+        Metasploitable2 (Target) + Windows 11 (Monitored Endpoint)
+```
+
+### Attacks Executed
+
+| Attack | Tool | Result |
+|--------|------|--------|
+| Port Scan | Nmap | 658 Wazuh alerts fired in real time |
+| SSH Brute Force | Hydra | Cracked `msfadmin:msfadmin` — every attempt logged |
+| vsftpd 2.3.4 Backdoor | Metasploit | Full root shell — `uid=0` |
+| SQL Injection | SQLMap | 7 databases extracted from DVWA |
+| FTP Brute Force | Hydra | No valid creds — Wazuh flagged entire attempt |
+
+### Defense Built
+
+- ✅ Custom Wazuh detection rules written from scratch in XML
+- ✅ All rules mapped to **MITRE ATT&CK** framework
+- ✅ Live log pipeline: Wazuh → Splunk — **580+ events indexed**
+- ✅ Splunk SOC Dashboard — 5 panels: alert trends, source IPs, rule IDs, severity counts
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Full%20Project-1565c0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajul97/home-soc-lab)
+
+---
+
+## 🛡️ Skills & Arsenal
+
+### Defensive Security
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-1565c0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOSA1IDktNXYtNkwyIDExeiIvPjwvc3ZnPg==&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Log%20Analysis-1565c0?style=flat-square&logo=splunk&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Threat%20Detection-1b3a6b?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1a237e?style=flat-square&logo=wireshark&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-0d47a1?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident-Response-1565c0?style=flat-square)
+
+### Offensive Security
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Attacker%20Machine-1b3a6b?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Exploitation-1565c0?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Reconnaissance-0d47a1?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-Brute%20Force-1a237e?style=flat-square)
+![SQLMap](https://img.shields.io/badge/SQLMap-SQL%20Injection-1b3a6b?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-Vuln%20Scanning-1565c0?style=flat-square)
+
+### IAM & Cloud
+![SailPoint](https://img.shields.io/badge/SailPoint-IAM-1565c0?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Windows%20Server-0d47a1?style=flat-square&logo=microsoft&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-Security-1565c0?style=flat-square&logo=googlecloud&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Architecture-1b3a6b?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA-RBAC-1a237e?style=flat-square)
+
+### Standards & Frameworks
+![ISO 27001](https://img.shields.io/badge/ISO-27001-1565c0?style=flat-square)
+![NIST](https://img.shields.io/badge/NIST-Framework-0d47a1?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-1b3a6b?style=flat-square)
+
+---
+
+## 💼 Experience Timeline
+
+```
+2026 - Present  │  MSc Cybersecurity & Digital Forensics — UWTSD London
+                │  CTF Competitions | SOC Simulation Labs | Blue Team Workshops
+                │
+Jul–Sep 2025    │  Intern — Associate Security Consultant @ Seth Champaran House
+                │  Vulnerability assessment, security hardening, web deployment
+                │
+Apr–Jun 2025    │  Intern — Associate Security Consultant @ Diaas
+                │  SailPoint IAM, Active Directory, MFA/RBAC, Zero Trust, OSINT
+                │
+Feb–Aug 2024    │  Frontend Developer @ WebMobril Gaming Studioz
+                │  React Native, Firebase, DNS, live deployment
+                │
+Jul–Dec 2023    │  Data Associate @ Relay Human Cloud
+                │  Data filtering, Excel reporting, lead management
+```
+
+---
+
+## 📜 Certifications
+
+| Certificate | Issuer | Year |
+|-------------|--------|------|
+| ACT Security e-Learning | Counter Terrorism Policing & SIA | 2026 |
+| Docker Foundations Professional | Docker, Inc | 2026 |
+| Junior Cybersecurity Analyst Career Path | Cisco | 2025 |
+| Google Cloud Cybersecurity | Google | 2024 |
+| Networking Fundamentals on GCP | Google | 2024 |
+| Protect Sensitive Data with DLP | Google | 2024 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://buymeacoffee.com/rajulgupta" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
+
+![Rajul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajul97&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=4fc3f7&title_color=4fc3f7)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rajul97&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajul97&theme=github_dark_dimmed&hide_border=true&layout=compact&title_color=4fc3f7)
+
 </div>
 
 ---
 
-## 📊 My Stats
+## 🏆 GitHub Trophies
 
-![](https://github-readme-stats.vercel.app/api?username=rajul97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)    ![](https://nirzak-streak-stats.vercel.app/?user=rajul97&theme=dark&hide_border=false)   
-                                      
-            
-![](https://github-profile-trophy.vercel.app/?username=rajul97&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rajul97&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a6b,100:0d1b2a&height=100&section=footer&fontColor=4fc3f7" width="100%"/>
+
+*SOC Analyst | London, UK | Open to Work*
+
+</div>
